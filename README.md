@@ -1,5 +1,5 @@
 # Enigma
-### Enigma is a text-only encryption application very easy to use 
+### Enigma is a text-only encryption application that is very easy to use 
 
 ## Menu : 
 
