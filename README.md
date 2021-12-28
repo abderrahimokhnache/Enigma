@@ -17,4 +17,4 @@
  ### ```asymmetric encryption```
 
  <img src="https://github.com/astroxiii/Enigma/blob/master/rm_imgs/asy0.png" width="400"/>
- <img src="https://github.com/astroxiii/Enigma/blob/master/rm_imgs/asy1.png" width="400"/>
+ <img src="https://github.com/astroxiii/Enigma/blob/master/rm_imgs/asy2.png" width="400"/>
