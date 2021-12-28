@@ -1,0 +1,35 @@
+{
+	"style":[
+		{
+		"bg":"#111111",
+		"fg":"#00ffff",
+		"relief" :"flat",
+		"font" : ["Century Gothic" ,14  , "italic"],
+		"images" : [""]
+		}
+	],
+	"root-config" : [
+		{
+		"bg-root":"#000",
+		"geometry" : "500x300",
+		"title" : "Enegma",
+		"icon":"static/engma.ico"
+		,"Extra-data" :""
+		}
+	],
+	 "style-on-event":[
+		{
+		"Enter":"#3a3a3a",
+		"Leave":"#11111d",
+		"activebackground":"#11111d",
+		"activeforeground":"#00ffff"
+		}
+	],
+	 "about" :[
+	 	{
+	 	 	"email":"",
+	 		"author":""
+	 	}
+	 ]
+
+}

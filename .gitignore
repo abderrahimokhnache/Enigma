@@ -1,0 +1,4 @@
+*.txt
+*.key
+*.pyc
+__pycache__
