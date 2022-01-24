@@ -9,7 +9,7 @@ def run():
 	root.geometry(geo)
 	root['bg'] = root_bg
 	root.title(title)
-	# root.iconbitmap(icon)
+	root.iconbitmap(icon)
 	mother = Frame(root , bg = root_bg)
 	mother.place(relx = 0.0 , rely = 0.0 , relwidth  = 1 , relheight = 1)
 

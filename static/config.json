@@ -12,7 +12,7 @@
 		{
 		"bg-root":"#000",
 		"geometry" : "600x400",
-		"title" : "Enegma",
+		"title" : "Enigma",
 		"icon":"static/engma.ico"
 		,"Extra-data" :""
 		}

@@ -1,10 +1,6 @@
 from tkinter import *
-from tkinter import ttk , filedialog as fd ,messagebox as msg
 from hashlib import *
 from config_tk import *
-import hashlib,binascii
-import tkinter.scrolledtext as st
-import logging
 from cryptography.fernet import Fernet #this for generating the key
 
 def hash_2(mother ,root):

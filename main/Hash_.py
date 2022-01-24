@@ -1,10 +1,8 @@
 from tkinter import *
-from tkinter import ttk , filedialog as fd ,messagebox as msg
+from tkinter import ttk
 from hashlib import *
 from config_tk import *
-import hashlib,binascii
-import tkinter.scrolledtext as st
-import logging
+import binascii, logging
 from cryptography.fernet import Fernet #this for generating the key
 
 
@@ -76,7 +74,6 @@ def hash_(mother , root):
 			,relief ='flat' , command =lambda : crypt_options('Advance'))
 		bt2.place(relx= 0.78 , rely = 0.5 , relwidth = 0.2 , relheight = 0.1)
 
-	lb1 = Label(mother , text = "Cryptogram", font = font , bg= bg , fg =fg ).pack(padx = 190 , pady = 20)
 
 	PW= ttk.Entry(mother , font= font )
 	PW.place(relx= 0.05 , rely = 0.2 , relwidth = 0.9 , relheight = 0.1)
