@@ -1,6 +1,11 @@
 # Enigma
 ### text-only encryption application
 
+
+
+https://user-images.githubusercontent.com/93830072/206875451-91b73200-f07d-464b-b57e-c257e2cb23b1.mp4
+
+
 ## Menu : 
 
 > the first option is ```one way encryption``` in order to decrypet the hash you have to use a *Craker* 
